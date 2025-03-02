@@ -8,7 +8,7 @@ Software Engineer passionate about creating innovative solutions using JavaScrip
 - **Backend:** Node.js, Express, GraphQl, Nest
 - **Mobile:** React Native
 
-## 📊 GitHub Stats (its never fair xD)
+## 📊 GitHub Stats on public repos
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krespokiller&show_icons=true&theme=radical)
 
 ## 📫 Contact

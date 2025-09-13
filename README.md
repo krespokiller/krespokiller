@@ -12,4 +12,4 @@ Software Engineer passionate about creating things using JavaScript.
 Interested in collaborating? Reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/david-vargas-krespokiller)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/krespokiller)
+[![GitHub xD](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/krespokiller)

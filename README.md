@@ -1,7 +1,7 @@
 # 👋 Hi, I'm @krespokiller
 
 ## 🚀 About Me
-Software Engineer passionate about creating things using JavaScript.
+Software Engineer passionate about creating things using tech.
 
 ## 💻 Tech Stack
 - **Frontend:** React, TypeScript
